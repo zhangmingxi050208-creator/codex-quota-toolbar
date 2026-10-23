@@ -1,0 +1,17 @@
+# Local build output
+CodexQuotaToolbar.exe
+
+# Editor and operating-system files
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
+
+# Temporary files and logs
+*.tmp
+*.log
+preview*.png
+*preview.png
+
