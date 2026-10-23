@@ -21,6 +21,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: CodexQuotaToolbar-Windows
-          path: dist/Codex额度工具条-Setup.exe
+          path: dist/
           if-no-files-found: error
 
