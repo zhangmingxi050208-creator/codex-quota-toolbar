@@ -6,6 +6,10 @@
 
 > 本项目是社区开源工具，并非 OpenAI 官方产品。
 
+<p align="center">
+  <img src="assets/toolbar-preview.png" width="700" alt="Codex 额度工具条界面示意图">
+</p>
+
 ## 功能
 
 - 自动读取当前登录用户自己的 Codex 额度
