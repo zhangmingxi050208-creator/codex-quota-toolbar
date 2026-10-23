@@ -1,5 +1,7 @@
 # Codex 额度工具条
 
+[![Build](https://github.com/zhangmingxi050208-creator/codex-quota-toolbar/actions/workflows/build.yml/badge.svg)](https://github.com/zhangmingxi050208-creator/codex-quota-toolbar/actions/workflows/build.yml)
+
 一个轻量的 Windows 桌面工具条，在 Codex 窗口顶部显示当前 5 小时和 7 天额度、重置时间以及彩色进度条。
 
 > 本项目是社区开源工具，并非 OpenAI 官方产品。
@@ -16,7 +18,7 @@
 
 ## 安装
 
-从项目的 `dist` 目录下载 `Codex额度工具条-Setup.exe`，双击运行即可。
+[直接下载 Windows 安装包](https://github.com/zhangmingxi050208-creator/codex-quota-toolbar/raw/refs/heads/main/dist/Codex%E9%A2%9D%E5%BA%A6%E5%B7%A5%E5%85%B7%E6%9D%A1-Setup.exe)，双击运行即可。
 
 由于社区版本没有商业代码签名证书，Windows SmartScreen 可能在首次运行时显示提醒。你也可以审查源码后自行编译。
 
