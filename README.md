@@ -7,7 +7,7 @@
 > 本项目是社区开源工具，并非 OpenAI 官方产品。
 
 <p align="center">
-  <img src="assets/toolbar-preview.png" width="700" alt="Codex 额度工具条界面示意图">
+  <img src="assets/codex-toolbar-overview.png" width="1200" alt="Codex 额度工具条整体显示效果与颜色说明">
 </p>
 
 ## 功能
